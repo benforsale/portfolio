@@ -50,7 +50,7 @@ const Banner = () => {
                         <span className="font-medium text-foreground">
                             Khanh Toan
                         </span>
-                        . An IT student who's curious by nature, slightly
+                        . An IT student who&apos;s curious by nature, slightly
                         narcissistic, and interested in far more than just code.
                         I spend my time exploring technology, history,
                         languages, geopolitics, cultures, and whatever else
