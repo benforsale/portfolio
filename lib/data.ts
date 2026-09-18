@@ -203,7 +203,8 @@ export const PROJECTS: IProject[] = [
         // thumbnail: '/projects/thumbnail/property-pro.jpg',
         // longThumbnail: '/projects/long/property-pro.jpg',
 
-        // images: [
+        //
+        //[
         //     '/projects/images/property-pro-1.png',
         //     '/projects/images/property-pro-2.png',
         //     '/projects/images/property-pro-3.png',
